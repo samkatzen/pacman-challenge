@@ -1,3 +1,3 @@
 # pacman-challenge
-Challenge to make Pac Man turn around once he hit the edge of the window.
+My task in this activity is to create a pacman on demand (button click) and move these pacmen across the page.
 My code is marked in the file
