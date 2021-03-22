@@ -1,4 +1,4 @@
-PacMan.js
+// PacMan.js
 var pos = 0;
 const pacArray = [
   ["./images/PacMan1.png", "./images/PacMan2.png"],
